@@ -1,4 +1,4 @@
-HR Insights: Tracking Workforce Trends – Exploratory Data Analysis (EDA)
+***HR Insights: Tracking Workforce Trends – Exploratory Data Analysis (EDA)***
 
 This project presents an exploratory data analysis of workforce trends using the HR-Insights-Tracking-Workforce-Trends dataset. The analysis focuses on understanding employee attrition patterns based on age groups and tenure, enabling HR teams to identify workforce stability risks and improve retention planning using data-driven insights.
 
@@ -127,7 +127,7 @@ Libraries Used:
 
  Conclusion
 
-This project demonstrates a structured **workforce analytics EDA pipeline**:
+This project demonstrates a structured **workforce analytics EDA pipeline:
 
 * Clear HR problem framing
 * Accurate data cleaning and validation
@@ -173,9 +173,3 @@ Explore the project:
 
 Varsha Anand N
 GitHub: [https://github.com/your-username](https://github.com/varshaanand011)
-
- This project is ideal for:
-
-* Academic submissions
-* Data analytics portfolios
-* Entry-level HR analytics roles
