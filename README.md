@@ -7,17 +7,22 @@ This project presents an exploratory data analysis of workforce trends using the
 ## 📁 Project Structure
 
 ```
-HR-Insights-Tracking-Workforce-Trends/
+project-folder/
 │
 ├── README.md                          <-- You are here
 ├── data/
-│   ├── raw/                           <-- Original workforce dataset
-│   └── cleaned/                       <-- Cleaned workforce dataset
-├── notebooks/                         <-- Jupyter notebooks with full analysis
-├── scripts/                           <-- Data cleaning & visualization scripts
-├── reports/
-│   └── analysis_report                <-- Summary of findings and insights
-└── visuals/                           <-- Generated charts and plots
+│   ├── raw_data.csv                 <-- Original workforce dataset
+│   └── cleaned_data.csv             <-- Cleaned workforce dataset
+│
+├── notebooks/                       <-- Jupyter notebooks with full analysis
+│   ├── phase_1_eda.ipynb             
+│   ├── phase_2_cleaning.ipynb
+│   ├── phase_3_analysis.ipynb
+│   └── phase_4_insights.ipynb
+│
+└── final_analysis/                 <-- Jupyter notebooks with final analysis
+│   └── employee_attrition_full_analysis.ipynb
+
 ```
 
 ---
