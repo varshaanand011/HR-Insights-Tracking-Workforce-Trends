@@ -183,8 +183,4 @@ Explore the project:
 
 ---
 
-## 👩‍💻 Author
-
-**Varsha Anand N**
-GitHub: [https://github.com/your-username](https://github.com/varshaanand011)
 
