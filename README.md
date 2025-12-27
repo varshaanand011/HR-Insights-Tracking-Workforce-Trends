@@ -9,19 +9,21 @@ This project presents an exploratory data analysis of workforce trends using the
 ```
 project-folder/
 │
-├── README.md                          <-- You are here
+├── README.md                          # Project documentation
+│
 ├── data/
-│   ├── raw_data.csv                 <-- Original workforce dataset
-│   └── cleaned_data.csv             <-- Cleaned workforce dataset
+│   ├── raw_data.csv                  # Original workforce dataset
+│   └── cleaned_data.csv              # Cleaned and processed dataset
 │
-├── notebooks/                       <-- Jupyter notebooks with full analysis
-│   ├── phase_1_eda.ipynb             
-│   ├── phase_2_cleaning.ipynb
-│   ├── phase_3_analysis.ipynb
-│   └── phase_4_insights.ipynb
+├── notebooks/                        # Step-by-step analysis notebooks
+│   ├── phase_1_problem_definition.ipynb
+│   ├── phase_2_data_cleaning.ipynb
+│   ├── phase_3_eda_analysis.ipynb
+│   └── phase_4_insights_summary.ipynb
 │
-└── final_analysis/                 <-- Jupyter notebooks with final analysis
-│   └── employee_attrition_full_analysis.ipynb
+└── final_analysis/
+|    └── employee_attrition_full_analysis.ipynb   # End-to-end final analysis
+└── .gitignore                        # Git ignore rules
 
 ```
 
